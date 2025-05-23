@@ -1,0 +1,14 @@
+---
+title: "WeExt: A Framework of Extending Deterministic Knowledge Graph Embedding Models for Embedding Weighted Knowledge Graphs"
+collection: publications
+category: manuscripts
+# permalink: /publication/2010-10-01-paper-title-number-2
+# excerpt: 'With the further development of knowledge graphs, many weighted knowledge graphs (WKGs) have been published and greatly promote various applications. However, current deterministic knowledge graph embedding algorithms cannot encode weighted knowledge graphs well. This paper gives a promising framework WeExt that can extend deterministic knowledge graph embedding models to enable them to learn weighted knowledge graph embeddings. In addtion, we introduce weighted link prediction to evaluate the weighted knowledge graph embedding models’ performance on completing WKGs. Finally, we give concrete implementation of WeExt based on two translational distance models and two semantic matching models. Our experimental results show the proposed framework achieves promising performance in link prediction, weight prediction, and weighted link prediction.'
+date: 2023-05-13
+venue: 'IEEE Access'
+# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10124725'
+citation: 'K. W. Kun et al., "WeExt: A Framework of Extending Deterministic Knowledge Graph Embedding Models for Embedding Weighted Knowledge Graphs," in IEEE Access, vol. 11, pp. 48901-48911, 2023, doi: 10.1109/ACCESS.2023.3276319.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
