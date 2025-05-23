@@ -2,7 +2,7 @@
 title: "An Isotropy Analysis for Self-Supervised Acoustic Unit Embeddings on the Zero Resource Speech Challenge 2021 Framework"
 collection: publications
 category: conferences
-permalink: /publication/isotropy-analysis
+# permalink: /publication/isotropy-analysis
 # excerpt: 'In recent years, self-supervised representation learning has gained much attention for its proven advantages in many downstream tasks. Consequently, various self-supervised representation learning methods have been developed. However, few studies have investigated the resulting embedding space or analyzed why any particular approach performs better than any other. Here, we are interested in investigating the geometry in terms of the isotropy of embedding spaces learned by self-supervised speech representation, which can influence the performance in discriminating acoustic units on the Zero Resource Speech Challenge 2021 (ZR2021) framework. Most top systems from the published ZR2021 results are based on the contrastive predictive coding (CPC) technique. Here, we propose using hidden-unit BERT (HuBERT) self-supervised representation learning, and we provide detailed analyses and comparisons of their isotropies of embedding space, which might influence performance. Furthermore, we use simple yet effective feature fusion techniques to combine both models’ strengths, leading to the ability to reduce the ABX error rate and outperform top models in the ZR2021 dev-other dataset.'
 date: 2023-06-04
 venue: '2023 International Conference on Acoustics, Speech, and Signal Processing'
