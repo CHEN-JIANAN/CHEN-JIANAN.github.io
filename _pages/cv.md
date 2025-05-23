@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The pdf version of cv can be downloaded from <a href=https://chen-jianan.github.io/files/cv_chenjianan_202505.pdf>CV</a>.
+
 Research Interests
 ======
 * Automatic Speech Recognition (ASR)
