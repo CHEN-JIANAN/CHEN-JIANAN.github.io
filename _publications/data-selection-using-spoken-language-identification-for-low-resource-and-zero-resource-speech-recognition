@@ -2,8 +2,8 @@
 title: "Data Selection using Spoken Language Identification for Low-Resource and Zero-Resource Speech Recognition"
 collection: publications
 category: conferences
-permalink: https://ieeexplore.ieee.org/document/10848811
-excerpt: 'Large-scale pre-trained models have become com-
+# permalink: https://ieeexplore.ieee.org/document/10848811
+# excerpt: 'Large-scale pre-trained models have become com-
 mon for Automatic Speech Recognition (ASR) tasks. They utilize
 large-scale, multilingual datasets to learn acoustic features and
 then are finetuned on downstream ASR tasks. However, their
@@ -23,7 +23,7 @@ systems with little target language resource.'
 date: 2024-12-06
 venue: '2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)'
 paperurl: 'https://ieeexplore.ieee.org/document/10848811'
-citation: 'J. Chen, C. Chu, S. Li and T. Kawahara, "Data Selection using Spoken Language Identification for Low-Resource and Zero-Resource Speech Recognition," 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Macau, Macao, 2024, pp. 1-6, doi: 10.1109/APSIPAASC63619.2025.10848811. keywords: {Training;System performance;Asia;Information processing;Phonetics;Data models;Acoustics;Multilingual;Automatic speech recognition},'
+citation: 'J. Chen, C. Chu, S. Li and T. Kawahara, "Data Selection using Spoken Language Identification for Low-Resource and Zero-Resource Speech Recognition," 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), Macau, Macao, 2024, pp. 1-6, doi: 10.1109/APSIPAASC63619.2025.10848811.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
