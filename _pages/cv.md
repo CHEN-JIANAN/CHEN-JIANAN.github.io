@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version can be downloaded from [here](/files/cv_chenjianan_202505.pdf).
+A pdf version can be downloaded from [here](/files/cv_chenjianan_2505.pdf).
 
 Research Interests
 ======
