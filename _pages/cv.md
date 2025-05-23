@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Automatic Speech Recognition (ASR)
+* Speech Translation (ST)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2013.10 - now: Ph.D student in Graduate School of Informatics, Kyoto University, supervised by Prof. Tatsuya Kawahara
+* 2021.10 - 2023.09: M.S. in Graduate School of Advanced Science and Technology, Japan Advanced Institue of Science and Technology, supervised by Prof. Nguyen Minh Le
+* 2013.09 - 2017.07: B.S. in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2017.07 - 2020.11: Java Developer / Senior Java Developer
+  * Shanghai Huaxin Securities
+  * Duties includes: developing smart phone apps for trading stocks and funds; developing backend tools for user risk managements.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Hornors
+======
+* 2024.04 - now: Fellowship of DoGS Next AI Program, awarded by Japan Science and Technology Agency (JST)
+* 2022.10 - 2023.09: JAIST Scholarship, awarded by JAIST
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Languages: Mandarin Chinese (native), English (fluent), Japanese (fluent), Korean (only a little)
+* Programming Languages: Python, Java, C, C++
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
