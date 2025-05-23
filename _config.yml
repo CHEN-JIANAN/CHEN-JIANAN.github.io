@@ -23,7 +23,7 @@ repository               : "chen-jianan/chen-jianan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_2021.PNG"
   name             : "Jianan Chen (陈嘉南)"
   bio              : "PhD student in Speech and Audio Processing (SAP) Lab, Kyoto University."
   location         : "Kyoto, Japan"
