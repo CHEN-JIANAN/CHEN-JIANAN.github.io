@@ -1,0 +1,13 @@
+---
+title: "Language-Aware Routing in Mixtures of Experts for Low-Resource Automatic Speech Recognition"
+collection: publications
+category: conferences
+# permalink: /publication/isotropy-analysis
+# excerpt: 'Automatic speech recognition (ASR) for low-resource languages remains challenging due to limited annotated data and linguistic diversity. Unlike high-resource languages, low-resource languages often lack sufficient training data to train ASR models from scratch. Parameter-efficient fine-tuning of pre-trained speech models has become a widely adopted solution. Among them, Low-Rank Adaptation (LoRA) enables efficient adaptation by introducing only a small number of trainable parameters while preserving the knowledge in pre-trained models.  In this work, we investigate the Mixtures of LoRA Experts (MoLE) framework on four Indic languages: Hindi, Bengali, Marathi, and Tamil. We compare traditional routing with language-guided and language-family-guided routing, and further combine the traditional and the model-predicted language-guided routing in a hybrid strategy. Experimental results show that top-1 routing generally outperforms top-2 routing and produces expert specialization towards individual languages. In addition, language-aware routing performs comparably to or better than traditional routing. The hybrid strategy achieves the best overall result, with a character error rate of 9.20\%. Expert usage analysis further suggests that language-dependent specialization is more beneficial than uniform expert usage.'
+date: 2026-11-11
+venue: '2026 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)'
+paperurl: ''
+citation: ''
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
